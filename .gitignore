@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+
+.env 
 # Distribution / packaging
 .Python
 build/
@@ -215,4 +217,4 @@ marimo/_lsp/
 __marimo__/
 
 # Streamlit
-.streamlit/secrets.toml
+.streamlit/secrets.tomlAgentic-Demo/
